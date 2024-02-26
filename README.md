@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EstherrDaniell
-- 👀 I’m interested in exploring various feilds of computer science!
+- 👀 I’m interested in exploring various fields of computer science!
 - 🌱 I’m currently doing my Btech CSE UG programme
 - 📫 How to reach me ...
 
